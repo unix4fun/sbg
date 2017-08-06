@@ -1,0 +1,2 @@
+# sbg
+Ssh Banner Generator
