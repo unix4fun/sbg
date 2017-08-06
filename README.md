@@ -40,7 +40,7 @@ Host key fingerprint is SHA256:PUI2nXLoM93QX8C9Lt1DuO6gmyhH6a8MFsj4KHVXkx8
 |    + o . +.o  @o|  |        X E . . o|  |. . o .          |  |        .o o +o..|
 |     . o o =o . =|  |  o .  = O + o + |  |+.   = o        E|  |       .+ = =..  |
 |        S =. + .o|  | ..o... S = . * .|  |oo.   = S       .|  |        SO + .+  |
-|       . o..= o +|  | .o. ..o + . o +.|  |o .. o. ooo     .|  |       =o++ o=   | <== generated banner displayed
+|       . o..= o +|  | .o. ..o + . o +.|  |o .. o. ooo     .|  |       =o++ o=   | <== generated banner 
 |        .  + = +.|  |.. . oo    .. . .|  | . .o. o.B.     .|  |      + =..oo    |
 |            + * o|  |.   ..oo. o ..   |  |  .=*oo =+..  o .|  |     . O o=.     |
 |           . o o+|  |      o+o=. ..   |  |  =**X=*Oo  .o . |  |      o *=**.    |
